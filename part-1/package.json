@@ -1,0 +1,19 @@
+{
+  "name": "nats-backbone-part-1-examples",
+  "scripts": {
+    "typecheck": "tsc -p ."
+  },
+  "dependencies": {
+    "@nats-io/jetstream": "^3.4.0",
+    "@nats-io/kv": "^3.4.0",
+    "@nats-io/obj": "^3.4.0",
+    "@nats-io/transport-node": "^3.4.0",
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15"
+  },
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
